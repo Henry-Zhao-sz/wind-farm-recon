@@ -27,4 +27,4 @@ A demonstration video which illustrates the reconstruction process can be viewed
 
 ## 🚀 Future Updates
 
-The code will be made available in this repository upon the acceptance of the manuscript. 
+The code will be made available in this repository. 
