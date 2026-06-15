@@ -21,7 +21,7 @@ A sample of the processed dataset is available in the `dataset/` directory.
 ## 🎥 Demonstration
 A demonstration video which illustrates the reconstruction process can be viewed at: 🔗 [https://datazyh.oss-cn-beijing.aliyuncs.com/wind-farm-recon-demo.mp4](https://datazyh.oss-cn-beijing.aliyuncs.com/wind-farm-recon-demo.mp4)
 
-![image-20260615120211681](https://datazyh.oss-cn-beijing.aliyuncs.com/image-20260615120211681.png)
+![image-20260615133202440](https://datazyh.oss-cn-beijing.aliyuncs.com/image-20260615133202440.png)
 
 
 
