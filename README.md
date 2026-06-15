@@ -25,16 +25,6 @@ A demonstration video which illustrates the reconstruction process can be viewed
 
 
 
-## 📊 Results
-
-Below are dynamic visualizations of the wind fields reconstructed by our method using sparse LiDAR observations.
-
-![sample1](https://datazyh.oss-cn-beijing.aliyuncs.com/sample1.gif)
-
-![sample2](https://datazyh.oss-cn-beijing.aliyuncs.com/sample2.gif)
-
-
-
 ## 🚀 Future Updates
 
 The code will be made available in this repository upon the acceptance of the manuscript. 
